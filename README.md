@@ -1,6 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MaWHsRQM)
 # Assignment 1
 
+
+
+<p><a href="page1.md"> CLICK ME FOR ASSIGNMENT!</a></p>
+
 ## Creating a basic webpage
 For the first assignment you will need to create a basic webpage using the HTML we have covered in class so far. While the exact content of the page isn't specified you must demonstrate that you understand the topics we have covered so far. This will be a multipage website consisting of at least 2 pages. Each page should include a title for the browser tab. It does not matter where each of the required elements are as long as you include all of them. Use semantic elements to structure the elements on the page, you can find a list of several semantic elements [here](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
