@@ -7,7 +7,7 @@
 
 <p>This is the second page for the assignment!</p>
 <p><a href="page1.md"> This Link will bring you to the first page</a></p>
-<p><a href="d2l.sdbor.edu/d2l/home">This link will bring you to D2l!</a></p>
+<p><a href="https://d2l.sdbor.edu/d2l/home">This link will bring you to D2l!</a></p>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buddy_christ.jpg/330px-Buddy_christ.jpg" alt="Test">
 
 <table>
